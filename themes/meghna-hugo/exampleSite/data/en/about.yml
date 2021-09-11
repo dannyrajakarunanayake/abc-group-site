@@ -5,12 +5,17 @@ about:
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    # content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : We are expertise in creating innovative design websites that increase conversions. E-Commerce Web Design, Custom Web Design, Mobile App Design.
+
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
     title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    # content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : Designing and building the interface, navigation and professional websites for businesses and clients.
+    Follow design best practice and Understand the user and client needs.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    # content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : Our team understand your business and create strategy to fulfill  your objectives. We experience in creating intuitive website designs. 
