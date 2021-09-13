@@ -1,0 +1,26 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Our Skills
+  subtitle : We’ve skilled in wide range of web and Other digital market tools.
+  content : Innovative, cost effective and timely web solutions that drives the growth of small, medium and large scale businesses. Engineered by high professional individuals, experience in vast areas of expertise including marketing,sales,development and admistration 
+  image : images/about/company-growth.webp
+  skill_item :
+    # skill item loop
+    - name :  Business Development
+      percent : 90%
+      
+    # skill item loop
+    - name :  Analysis
+      percent : 70%
+      
+    # skill item loop
+    - name :  Design
+      percent : 80%
+      
+    - name :  IOS Development
+      percent : 95%
+      
+    # skill item loop
+    - name :  Android Development
+      percent : 75%

@@ -1,0 +1,29 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : We’re A Digital Design Agency.
+  content : "We are Australian base innovation company. we are team of marketers and developers. Digital transformation seamlessly with our technology. Our excellent innovations deliver best performance in multiple sectors."
+  feature_item : 
+      # feature item loop
+    - title : SEO Optimized
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Search your competitors, find traffic-driving keywords, competitors analysis, keyword search.
+
+      
+      # feature item loop
+    - title : Easy Customization
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : Dedicated web developers work together to customize your website as per  client request.
+      
+
+      # feature item loop
+    - title : Cost Efficiency
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Let's us help transform your website  cost efficiently and while focus on high quality product.
+
+      # feature item loop
+    - title : Customer Satisfaction
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : We can guarantee 100% customer satisfaction on the service and support during the process.
