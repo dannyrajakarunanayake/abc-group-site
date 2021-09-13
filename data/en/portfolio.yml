@@ -4,12 +4,11 @@ portfolio:
   title : Our Works
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
+    - name : Travel & Tourism
+      image : images/portfolio/screens.png
+      image_webp : images/portfolio/screens.png
+      categories : ["travel"]
+      link : "https://leisuretoursholiday.com.au/home"
       
     # portfolio item loop
     - name : Sound system

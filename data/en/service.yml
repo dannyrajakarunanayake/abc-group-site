@@ -6,29 +6,29 @@ service:
     # service item loop
     - name : WordPress Theme
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : WordPress Themes are ready-made layouts created for WordPress — one of the most popular content management systems used for blogging, news websites and etc
       
     # service item loop
     - name : Responsive Design
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Responsive web design (RWD) is an approach to web design that makes web pages render well on a variety of devices and window or screen sizes.
       
     # service item loop
     - name : Media &amp; Advertisement
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Digital,Social media, creative advertising solutions to reach target audiences.Social media platforms, messaging apps, news feeds, and even outside apps and websites. 
       
     # service item loop
     - name : Graphic Design
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content :   Create visual content to communicate to users.This involves several tasks and responsibilities. Design web pages, brochures, logos and etc.
       
     # service item loop
     - name : Apps Development
       icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Whether you are looking for Android and iOS app developers. We specialize in Web applications that runs on mobile devices.such as IOS and ANDROID.
       
     # service item loop
     - name : Networking
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Is responsible for building, maintaining and troubleshooting the day-to-day operation of networks that companies and organizations rely on.

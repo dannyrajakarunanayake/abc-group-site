@@ -4,24 +4,26 @@ feature:
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
   title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  content : "We are Australian base innovation company. we are team of marketers and developers. Digital transformation seamlessly with our technology. Our excellent innovations deliver best performance in multiple sectors."
   feature_item : 
       # feature item loop
     - title : SEO Optimized
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Search your competitors, find traffic-driving keywords, competitors analysis, keyword search.
+
       
       # feature item loop
     - title : Easy Customization
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Dedicated web developers work together to customize your website as per  client request.
+      
 
       # feature item loop
-    - title : SEO Optimized
+    - title : Cost Efficiency
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
+      content : Let's us help transform your website  cost efficiently and while focus on high quality product.
+
       # feature item loop
-    - title : Easy Customization
+    - title : Customer Satisfaction
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : We can guarantee 100% customer satisfaction on the service and support during the process.

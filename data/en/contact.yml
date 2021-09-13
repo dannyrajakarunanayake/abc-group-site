@@ -3,21 +3,21 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content : 
 
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      info : "Officer, VIC, 3809, Australia"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
+      info : "Phone: +61 420 972 885"
       
     - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
+      info : "Website: www.abc.com.au"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+      info : "Email: contact@abc.com.au"
 
 
   # Contact form
