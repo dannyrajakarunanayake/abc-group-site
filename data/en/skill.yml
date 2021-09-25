@@ -18,6 +18,9 @@ skill:
     - name :  Design
       percent : 80%
       
+    - name : Digital Marketing
+      percent : 80%
+      
     - name :  IOS Development
       percent : 95%
       

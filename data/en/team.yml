@@ -1,4 +1,4 @@
-lear############################### team ############################
+############################### team ############################
 team:
   enable : true
   title : Our Team
@@ -34,7 +34,7 @@ team:
         #   link : "#"
         
     # team member loop
-    - name : Michael Jonson jon jon
+    - name : Theo Louis Rajakarunanayake
       image_webp : images/team/team-3.webp
       image : images/team/team-3.jpg
       designation : Web Developer
