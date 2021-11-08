@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https:australianbusinessconcepts.com.au"
 title = "Australian Business Concepts"
 theme = "meghna-hugo"
 #themesDir = "../.."
