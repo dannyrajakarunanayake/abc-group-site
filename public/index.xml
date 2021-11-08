@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Australian Business Concepts</title>
+    <link>https://examplesite.com/</link>
+    <description>Recent content on Australian Business Concepts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2021 Designed by Australian Business Concepts PTY.LTD</copyright>
+    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why It’s Important to Hire an SEO Agency and Web Design Expertise</title>
+      <link>https://examplesite.com/blog/agency/</link>
+      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/agency/</guid>
+      <description>Good First Impressions
+ A user’s first impression of your website is 94% all about the design of your site.</description>
+    </item>
+    
+    <item>
+      <title>Why Your Digital Marketing not Working</title>
+      <link>https://examplesite.com/blog/marketing/</link>
+      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/marketing/</guid>
+      <description>Why Your Digital Marketing Isn’t Working
+ There’s a lot of hype about digital marketing It’s the answer to your prayers.</description>
+    </item>
+    
+    <item>
+      <title>Benefits of Social Media Marketing</title>
+      <link>https://examplesite.com/blog/social/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/social/</guid>
+      <description>Brand Awareness
+ When you start sharing quality, informative and helpful content on social media, with links to blog posts on your website, it stand your name out there in a way.</description>
+    </item>
+    
+    <item>
+      <title>Digital Marketing</title>
+      <link>https://examplesite.com/blog/digitalmarketing/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/digitalmarketing/</guid>
+      <description>What is Digital Marketing &amp;amp; Why Do You Need It?
+ Digital marketing is any marketing that happens on the internet.</description>
+    </item>
+    
+    <item>
+      <title>Facebook Follows Instagram in Hiding Likes</title>
+      <link>https://examplesite.com/blog/facebook/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/facebook/</guid>
+      <description>Facebook Follows Instagram in Hiding Likes – What This Means for Social Media Marketing</description>
+    </item>
+    
+    <item>
+      <title>Seo Optimization</title>
+      <link>https://examplesite.com/blog/seo/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/seo/</guid>
+      <description>SEO Rankings on Google &amp;amp; Rankings on Your Site
+ Google comes to mind first when people think of search engines, with many people wrongly believing it to be the first one.</description>
+    </item>
+    
+    <item>
+      <title>Social Trends in 2021</title>
+      <link>https://examplesite.com/blog/trends/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/trends/</guid>
+      <description>Artificial Intelligence
+ Artificial Intelligence sounds like such an abstract concept that it’s sometimes hard to imagine how it could be helpful.</description>
+    </item>
+    
+    <item>
+      <title>What You Need to Consider When Designing Your Website</title>
+      <link>https://examplesite.com/blog/website/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/website/</guid>
+      <description>User-Friendly
+ Remember that websites are made for the people who will be browsing them online.</description>
+    </item>
+    
+    <item>
+      <title>Why it’s Essential to Have a Responsive Website</title>
+      <link>https://examplesite.com/blog/responsive/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://examplesite.com/blog/responsive/</guid>
+      <description>Improve Google Rankings As of April 21st, Google will roll out a new update to their search algorithm, which will take into account a website’s mobile friendliness.</description>
+    </item>
+    
+    <item>
+      <title>John Doe</title>
+      <link>https://examplesite.com/author/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/author/john-doe/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+    <item>
+      <title>Mark Dinn</title>
+      <link>https://examplesite.com/author/mark-dinn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/author/mark-dinn/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+  </channel>
+</rss>
