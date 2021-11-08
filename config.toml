@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https:australianbusinessconcepts.com.au"
+baseURL = "https://dannyrajakarunanayake.com/abc-group-site/"
 title = "Australian Business Concepts"
 theme = "meghna-hugo"
 #themesDir = "../.."
